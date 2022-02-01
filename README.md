@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matejdlabal
-- 👀 I’m interested in UX/UI Designer as well as research
+- 👀 I’m interested in UX/UI Designer as well as UX research
 - 🌱 I’m currently learning more about Unity3D as well as Figma
 - 💞️ I’m looking to collaborate on UX projects
 - 📫 Best way to reach me is through here or via my website: matejdlabal.com
